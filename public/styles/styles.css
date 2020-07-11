@@ -162,7 +162,7 @@ body{
 }
 #banner h1{
     display: block;
-    width: 850px;
+    width: 100%;
     color: white;
     font-family: "BeasNeue";
     font-size: 45px;
@@ -472,7 +472,7 @@ aside h3:first-child{
     margin-bottom: 15px;
 }
 #articles article{
-    width: 100%;
+    width: 98%;
     height: auto;
     border: 1px solid #ccc;
     margin: 40px auto;
@@ -480,7 +480,7 @@ aside h3:first-child{
     font-family: "TrebuchetMS";
     background: white;
     color: black;
-    box-shadow: 1px 1px 2px solid #dddddd ;
+    box-shadow: 1px 1px 2px solid #dddddd;
 }
 .clearfix{
     float: none;
